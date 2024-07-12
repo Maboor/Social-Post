@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Social-Post/static/css/main.c5649c4e.css",
+    "main.js": "/Social-Post/static/js/main.572f84ca.js",
+    "static/js/453.ed3810f9.chunk.js": "/Social-Post/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Social-Post/index.html",
+    "main.c5649c4e.css.map": "/Social-Post/static/css/main.c5649c4e.css.map",
+    "main.572f84ca.js.map": "/Social-Post/static/js/main.572f84ca.js.map",
+    "453.ed3810f9.chunk.js.map": "/Social-Post/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5649c4e.css",
+    "static/js/main.572f84ca.js"
+  ]
+}
